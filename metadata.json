@@ -1,0 +1,6 @@
+{
+  "name": "LUXORA JEWELS – Online Jewellery Shopping & Management System",
+  "description": "A premium luxury jewellery e-commerce platform and ASP.NET Core MVC management system featuring dynamic product filtering, gold price calculation, cart, wishlist, checkout, order tracking, customer profiles, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
